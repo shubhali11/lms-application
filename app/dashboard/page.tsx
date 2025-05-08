@@ -14,7 +14,7 @@ export default function Dashboard() {
           <div className="p-6 border-b border-gray-200">
             <div className="flex items-center gap-2">
               <GraduationCap className="h-6 w-6 text-emerald-600" />
-              <h1 className="text-xl font-bold">EduLearn</h1>
+              <h1 className="text-xl font-bold">CorpCode</h1>
             </div>
           </div>
           <nav className="flex-1 p-4 space-y-1">
